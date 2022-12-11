@@ -1,0 +1,2 @@
+# VanillaNote
+Sticky Note App
